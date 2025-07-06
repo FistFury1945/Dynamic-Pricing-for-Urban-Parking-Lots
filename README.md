@@ -62,7 +62,7 @@ This project implements a dynamic pricing system for 14 urban parking lots using
 - Internet connection for package installation
 
 ### Installation
-1. **Upload** `Dynamic_Parking_Pricing_System.ipynb` to Google Colab
+1. **Upload** `Dynamic_Parking_Pricing_System_Notebook.ipynb` to Google Colab
 2. **Upload** `dataset.csv` to the Colab environment
 3. **Run all cells** sequentially - dependencies are installed automatically
 
